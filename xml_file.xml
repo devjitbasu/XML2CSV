@@ -1,0 +1,14 @@
+<data date="2022-10-10">
+    <stock>
+        <name>Microsoft</name>
+        <ticker>MSFT</ticker>
+        <Price>234.23</Price>
+        <currency>USD</currency>
+    </stock>
+    <stock>
+        <name>Apple</name>
+        <ticker>APPL</ticker>
+        <Price>345.45</Price>
+        <currency>USD</currency>
+    </stock>
+</data>
